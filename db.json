@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Zoom Call",
+      "day": "July 21th at 5:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Deutsch Lesson",
+      "day": "July 9th at 9:15am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Buy new luggage",
+      "day": "July 11th at 7:30pm",
+      "reminder": false
+    }
+    
+  ]
+}
